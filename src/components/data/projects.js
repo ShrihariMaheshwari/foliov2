@@ -11,7 +11,7 @@ export const ProjectData = [
     {
         id:1,
         title:'DALL.E Clone',
-        about:" This project is a clone of OpenAI DALL.E. It uses the OpenAI API to communicate the user query to the server and sends the response back to the user..",
+        about:" This project is a clone of OpenAI DALL.E. It uses the OpenAI API to communicate the user's query to the server and sends the response back to the user.",
         tags: ["ReactJS", "NodeJS", "HTML", "CSS", "OpenAI","Cloudinary","MongoDB"],
         demo: "https://dall-e-ai.vercel.app/",
         github: "https://github.com/ShrihariMaheshwari/dall-e-ai",
