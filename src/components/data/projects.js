@@ -16,7 +16,7 @@ export const ProjectData = [
         demo: "https://dall-e-ai.vercel.app/",
         github: "https://github.com/ShrihariMaheshwari/dall-e-ai",
         image: "https://openaicom.imgix.net/f75255a0-4022-4781-aecb-a1d4b10fd17e/OriginalDALLE2generationofaportraitpaintingofSalvadorDaliwitharobotichalfface.jpg?fm=auto&auto=compress,format&fit=min&rect=0,0,1024,1024&w=1919&h=1919"
-    }
+    },
     {
         id:1,
         title:'Article Summarizer',
