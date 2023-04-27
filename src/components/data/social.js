@@ -18,5 +18,10 @@ export const SocialData = [
         platform: "Twitter",
         link: "https://twitter.com/Aarav01386008",
         icon:  require('../../assets/icons/twitter.png')
+    },
+    {
+        platform: "Leetcode",
+        link: "https://leetcode.com/budds_14/",
+        icon:  require('../../assets/icons/leetcode.png')
     }
 ];
