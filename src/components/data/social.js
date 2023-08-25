@@ -11,7 +11,7 @@ export const SocialData = [
     },  
     {
         platform: "LinkedIn",
-        link: "https://www.linkedin.com/in/shrihari-maheshwari-691a4b14b/",
+        link: "https://www.linkedin.com/in/shriharimaheshwari/",
         icon:  require('../../assets/icons/linkedin (1).png')
     },
     {
