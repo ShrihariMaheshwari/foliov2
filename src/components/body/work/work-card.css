@@ -9,6 +9,7 @@
 }
 .work-logo {
   height: 80px;
+  align-items: center;
 }
 .work-info {
   flex: 1; 
