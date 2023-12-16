@@ -3,7 +3,6 @@ import "./work-card.css";
 function WorkCard({ item }) {
   return (
     <div className="work-card">
-      <img src={item.companylogo} className="work-logo" />
       <div className="work-info">
         <label className="company-name">{item.company}</label>
         <div className="work-dates">
@@ -17,7 +16,7 @@ function WorkCard({ item }) {
           </ul>
         </div>
       </div>
-
+      <img src={item.companylogo} className="work-logo" />
       <div className="work-info">
         <label className="company-name">{item.company}</label>
         <div className="work-dates">
