@@ -16,7 +16,7 @@ export const WorkData = [
         designation: "Software Engineer",
         dateJoining: "10-12-2020",
         dateEnd: "09-12-2021",
-        companylogo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8Xw8AAoMBgDTD2qgAAAAASUVORK5CYII=",
+        companylogo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABCAQAAACx6dw/AAAADUlEQVR42mP8X88ABAAIgwGAkFUGzQAAAABJRU5ErkJggg==",
         "work": [
             "Redesigned the DR project by utilizing serverless functions and API integration with geo-located resources. Cloned more than 5000 workspaces in the secondary region from the immediate region.",
             "Orchestrated the setup, revamped schema, and managed Amazon Athena for seamless data warehousing. Resulted in 40% faster query response time and improved data-driven decision-making.",
