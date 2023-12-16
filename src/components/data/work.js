@@ -9,6 +9,8 @@ export const WorkData = [
             "Redesigned the DR project by utilizing serverless functions and API integration with geo-located resources. Cloned more than 5000 workspaces in the secondary region from the immediate region.",
             "Orchestrated the setup, revamped schema, and managed Amazon Athena for seamless data warehousing. Resulted in 40% faster query response time and improved data-driven decision-making.",
             "Implemented Infrastructure as Code using AWS CloudFormation to define and provision the infrastructure for serverless architectures. Ensured consistency and reusability in deployment processes. Reduced deployment time by 40% and increased scalability by 50%."
+            "Increased the runtime of services by 20% by optimizing resource utilization and enabling automated scaling with monitoring using CloudWatch and CloudTrail."
+            "Reduced overall infrastructure costs by 20% by using AWS Config rules and resource tagging, which involved resource optimization, cost evaluation, and planning."
         ]
     },
     {
@@ -18,9 +20,9 @@ export const WorkData = [
         dateEnd: "09-12-2021",
         companylogo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAABCAQAAABeK7cBAAAADUlEQVR42mP8X8/AAAAFgwGANbMDjQAAAABJRU5ErkJggg==",
         "work": [
-            "Redesigned the DR project by utilizing serverless functions and API integration with geo-located resources. Cloned more than 5000 workspaces in the secondary region from the immediate region.",
-            "Orchestrated the setup, revamped schema, and managed Amazon Athena for seamless data warehousing. Resulted in 40% faster query response time and improved data-driven decision-making.",
-            "Implemented Infrastructure as Code using AWS CloudFormation to define and provision the infrastructure for serverless architectures. Ensured consistency and reusability in deployment processes. Reduced deployment time by 40% and increased scalability by 50%."
+            "Ensured the smooth operation of over 5000 DaaS (Desktop as a Service) solutions for clients worldwide by troubleshooting any issues that arose, ensuring uninterrupted service delivery."
+            "Streamlined cross-functional efforts to deliver a robust virtual desktop infrastructure, safeguarding business continuity and reducing downtime by 25% while maximizing productivity across teams."
+            "Consolidated project updates into visually impactful reports, highlighting key milestones, risks, and mitigation strategies to senior stakeholders; facilitated informed decision-making and achieved 100% on-time project delivery."
         ]
     }
 ]
