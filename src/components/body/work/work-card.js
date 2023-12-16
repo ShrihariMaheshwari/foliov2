@@ -10,7 +10,11 @@ function WorkCard({ item }) {
           <label>{item.dateJoining}</label>-<label>{item.dateEnd}</label>
         </div>
         <div className="work-desc">
-          <p>{item.work}</p>
+          <ul>
+            {item.work.map((point, index) => (
+              <li key={index}>{point}</li>
+            ))}
+          </ul>
         </div>
       </div>
     </div>
