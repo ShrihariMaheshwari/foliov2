@@ -17,7 +17,7 @@ export const SkillsData = [
             {
                 name: "C++",
                 icon: <i class="devicon-cplusplus-plain colored"></i>        
-            }
+            },
             {
                 name: "Java",
                 icon: <i class="devicon-java-plain colored"></i>        
@@ -77,7 +77,6 @@ export const SkillsData = [
                 name: "Figma",
                 icon: <i class="devicon-figma-plain colored"></i>                
             },
-            
         ]
     },
 ]
