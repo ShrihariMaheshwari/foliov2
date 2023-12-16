@@ -4,16 +4,15 @@
   margin-top: 12px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
 }
 .work-logo {
   height: 80px;
 }
 .work-info {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
+  flex: 1; 
+  margin-right: 16px;
 }
 .work-dates {
   color: gray;
